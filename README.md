@@ -18,8 +18,8 @@ A professional interactive dashboard built using Power BI to analyze sales, prof
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard.png)
-![Forecast Preview](assets/forecast.png)
+![Dashboard Preview](assests/dashboard.png)
+![Forecast Preview](assests/forecast.png)
 
 ---
 
