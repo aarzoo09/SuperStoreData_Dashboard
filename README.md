@@ -19,6 +19,9 @@ A professional interactive dashboard built using Power BI to analyze sales, prof
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview](assets/dashboard.png)
+
+## 📷 Forecast Preview
+
 ![Forecast Preview](assets/forecast.png)
 
 ---
